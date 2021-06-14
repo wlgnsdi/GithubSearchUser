@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GithubUserSearch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="menu_github_user">Github</string>
+    <string name="menu_favorite">즐겨찾기</string>
+    <string name="input_user_name">유저명을 입력하세요</string>
+    <string name="empty">검색한 결과가 없습니다.</string>
+    <string name="input_user_name_favorite">즐겨찾기에 저장된 이름을 검색하세요</string>
+    <string name="success">즐겨찾기에 추가되었습니다.</string>
+    <string name="fail">실패하였습니다.</string>
+    <string name="memo_title">메모</string>
+    <string name="fake_sentence">길을 그들은 주는 거친 못할 오직 갑 말이다. 지혜는 이상이 그들은 찾아다녀도, 수 동산에는 끓는 끓는다. 커다란 오아이스도 내는 무엇을 힘차게 같으며, 청춘은 풀이 약동하다. 가는 그와 풀이 대한 든 용기가 천자만홍이 맺어, 것이다. 곳이 위하여 유소년에게서 광야에서 없으면 인도하겠다는 듣는다. 동력은 없는 품었기 같이, 끓는 황금시대다. 피어나기 든 소리다.이것은 있음으로써 할지라도 타오르고 예가 그들은 부패뿐이다. 봄날의 이상은 우는 쓸쓸하랴? 인간의 들어 사는가 그리하였는가? 무엇을 봄바람을 유소년에게서 황금시대를 아름다우냐?  끝에 뜨거운지라, 살 속잎나고, 사랑의 풀이 예수는 불어 하는 아름다우냐? 웅대한 피부가 같지 희망의 끓는다. 꽃이 것이다.보라, 커다란 이상 가장 아니더면, 같지 하였으며, 미인을 것이다. 창공에 위하여 끓는 유소년에게서 속에서 하여도 긴지라 이것이다. 뜨고, 천지는 안고, 인류의 풀이 만천하의 무엇을 트고, 사막이다. 우리의 그들의 앞이 인류의 부패를 우리 것은 철환하였는가? 쓸쓸한 설레는 위하여 찾아다녀도, 무엇을 피가 하여도 그것은 있으랴? 거선의 뛰노는 바로 능히 피어나기 그들은 싹이 미인을 교향악이다. 얼마나 심장의 길을 가슴에 인생의 작고 청춘의 때문이다. 피가 평화스러운 것이다.보라, 하였으며, 보내는 꽃이 트고, 소금이라 그리하였는가?  얼음에 천자만홍이 가슴이 품고 사막이다. 청춘의 물방아 원대하고, 그들에게 사막이다. 품었기 것은 청춘에서만 낙원을 찬미를 몸이 이상, 우리 아름다우냐? 작고 충분히 인간은 보는 노년에게서 인도하겠다는 인생에 과실이 위하여서. 더운지라 꽃이 가치를 사막이다. 용감하고 그들의 끓는 있을 심장의 이상을 것이다. 꾸며 눈에 설레는 투명하되 것이다. 얼마나 맺어, 갑 크고 이상의 아니다. 우리 있는 그들에게 그들의 생명을 없으면 희망의 끝에 쓸쓸하랴? 하는 청춘의 피가 길지 끓는다. 설레는 별과 않는 하는 쓸쓸하랴?</string>
+    <string name="detail_info">상세정보</string>
+    <string name="memo">메모</string>
+    <string name="memo_save">메모 저장</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="do_you_want_to_save">저장하시겠습니까?</string>
+    <string name="alert">알람</string>
+    <string name="user_name">사용자 닉네임</string>
+    <string name="email">E-mail</string>
+    <string name="blog">Blog</string>
+    <string name="company">회사</string>
+    <string name="location">지역</string>
+</resources>
