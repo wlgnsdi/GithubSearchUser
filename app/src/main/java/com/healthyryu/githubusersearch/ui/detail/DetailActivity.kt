@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentTransaction
 import com.bumptech.glide.Glide
 import com.healthyryu.githubusersearch.R
-import com.healthyryu.githubusersearch.data.entity.DetailUser
+import com.healthyryu.githubusersearch.domain.model.DetailUser
 import com.healthyryu.githubusersearch.data.entity.FavoriteUser
 import com.healthyryu.githubusersearch.databinding.ActivityDetailBinding
 import com.healthyryu.githubusersearch.ui.commons.BaseActivity

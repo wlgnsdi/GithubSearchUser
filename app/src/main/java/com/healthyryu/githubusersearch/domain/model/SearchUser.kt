@@ -1,4 +1,4 @@
-package com.healthyryu.githubusersearch.data.entity
+package com.healthyryu.githubusersearch.domain.model
 
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName

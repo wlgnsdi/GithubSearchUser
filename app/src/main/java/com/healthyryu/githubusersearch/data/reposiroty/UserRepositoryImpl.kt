@@ -3,6 +3,7 @@ package com.healthyryu.githubusersearch.data.reposiroty
 import com.healthyryu.githubusersearch.data.entity.FavoriteUser
 import com.healthyryu.githubusersearch.data.local.dao.GithubUserDao
 import com.healthyryu.githubusersearch.data.remote.ApiService
+import com.healthyryu.githubusersearch.domain.repository.UserRepository
 import javax.inject.Inject
 
 class UserRepositoryImpl @Inject constructor(

@@ -1,6 +1,7 @@
-package com.healthyryu.githubusersearch.data.entity
+package com.healthyryu.githubusersearch.domain.model
 
 import com.google.gson.annotations.SerializedName
+import com.healthyryu.githubusersearch.domain.model.SearchUser
 
 data class Response(
 		@SerializedName("total_count")

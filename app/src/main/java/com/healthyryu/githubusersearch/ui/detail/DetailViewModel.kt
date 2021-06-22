@@ -1,7 +1,7 @@
 package com.healthyryu.githubusersearch.ui.detail
 
 import androidx.lifecycle.MutableLiveData
-import com.healthyryu.githubusersearch.data.entity.DetailUser
+import com.healthyryu.githubusersearch.domain.model.DetailUser
 import com.healthyryu.githubusersearch.data.entity.FavoriteUser
 import com.healthyryu.githubusersearch.data.reposiroty.UserRepositoryImpl
 import com.healthyryu.githubusersearch.ui.commons.BaseViewModel

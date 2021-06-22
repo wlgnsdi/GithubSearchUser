@@ -6,7 +6,6 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.healthyryu.githubusersearch.data.entity.FavoriteUser
 import com.healthyryu.githubusersearch.data.local.dao.GithubUserDao
-import com.healthyryu.githubusersearch.data.entity.SearchUser
 
 @Database(entities = [FavoriteUser::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {

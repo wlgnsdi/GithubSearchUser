@@ -6,7 +6,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.healthyryu.githubusersearch.R
-import com.healthyryu.githubusersearch.data.entity.SearchUser
+import com.healthyryu.githubusersearch.domain.model.SearchUser
 import com.healthyryu.githubusersearch.databinding.ItemGithubUserBinding
 
 class GithubUserAdapter(

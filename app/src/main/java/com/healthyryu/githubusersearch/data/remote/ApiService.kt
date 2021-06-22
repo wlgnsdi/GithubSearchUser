@@ -1,7 +1,7 @@
 package com.healthyryu.githubusersearch.data.remote
 
-import com.healthyryu.githubusersearch.data.entity.Response
-import com.healthyryu.githubusersearch.data.entity.DetailUser
+import com.healthyryu.githubusersearch.domain.model.Response
+import com.healthyryu.githubusersearch.domain.model.DetailUser
 import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Path

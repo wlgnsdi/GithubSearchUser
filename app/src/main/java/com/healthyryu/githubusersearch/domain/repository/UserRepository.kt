@@ -1,8 +1,8 @@
-package com.healthyryu.githubusersearch.data.reposiroty
+package com.healthyryu.githubusersearch.domain.repository
 
-import com.healthyryu.githubusersearch.data.entity.DetailUser
+import com.healthyryu.githubusersearch.domain.model.DetailUser
 import com.healthyryu.githubusersearch.data.entity.FavoriteUser
-import com.healthyryu.githubusersearch.data.entity.Response
+import com.healthyryu.githubusersearch.domain.model.Response
 import io.reactivex.Completable
 import io.reactivex.Single
 
